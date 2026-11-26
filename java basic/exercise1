@@ -11,6 +11,6 @@ function challenge1(width, height) {
     return rectangleString;
 }
 
-console.log(challenge1(3, 4));
-console.log(challenge1(5, 2));
-console.log(challenge1(5, -2));
+console.log(challenge1(4, 3));
+console.log(challenge1(2, 5));
+console.log(challenge1(-2, 5));
